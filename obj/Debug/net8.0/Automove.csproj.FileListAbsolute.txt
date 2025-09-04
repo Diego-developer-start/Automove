@@ -1,0 +1,15 @@
+/workspaces/Automove/obj/Debug/net8.0/Automove.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Automove/obj/Debug/net8.0/Automove.AssemblyInfoInputs.cache
+/workspaces/Automove/obj/Debug/net8.0/Automove.AssemblyInfo.cs
+/workspaces/Automove/obj/Debug/net8.0/Automove.csproj.CoreCompileInputs.cache
+/workspaces/Automove/obj/Debug/net8.0/Automove.sourcelink.json
+/workspaces/Automove/bin/Debug/net8.0/Automove
+/workspaces/Automove/bin/Debug/net8.0/Automove.deps.json
+/workspaces/Automove/bin/Debug/net8.0/Automove.runtimeconfig.json
+/workspaces/Automove/bin/Debug/net8.0/Automove.dll
+/workspaces/Automove/bin/Debug/net8.0/Automove.pdb
+/workspaces/Automove/obj/Debug/net8.0/Automove.dll
+/workspaces/Automove/obj/Debug/net8.0/refint/Automove.dll
+/workspaces/Automove/obj/Debug/net8.0/Automove.pdb
+/workspaces/Automove/obj/Debug/net8.0/Automove.genruntimeconfig.cache
+/workspaces/Automove/obj/Debug/net8.0/ref/Automove.dll
